@@ -5,22 +5,25 @@ import com.company.homeWorks.interfaces.IHW;
 
 import com.company.homeWorks.hw1.HomeWork1;
 import com.company.homeWorks.hw2.HomeWork2;
+import com.company.homeWorks.hw3.HomeWork3;
 import com.company.homeWorks.interfaces.IManager;
 import com.company.ui.UI;
 
 
 public class HomeWorksManager implements IManager {
 
-    private ArrayList<IHW> _ihws = new ArrayList<IHW>();
+    private ArrayList<IHW> _homeworks = new ArrayList<IHW>();
 
     public HomeWorksManager() {
         setup();
     }
+
     @Override
     public void setup() {
-        
-        _ihws.add(new HomeWork1());
-        _ihws.add(new HomeWork2());
+
+        _homeworks.add(new HomeWork1());
+        _homeworks.add(new HomeWork2());
+        _homeworks.add(new HomeWork3());
 
         displayMenu();
     }
@@ -30,7 +33,7 @@ public class HomeWorksManager implements IManager {
 
             UI.printBlock("Home Works that are available");
 
-        for (int i = 0; i < _ihws.size(); i++) {
+        for (int i = 0; i < _homeworks.size(); i++) {
             UI.printText("Home Work " + (i + 1));
         }
 
@@ -41,14 +44,14 @@ public class HomeWorksManager implements IManager {
 
             int hwn = UI.readNumber() - 1;
 
-            if(hwn < 0 || hwn > _ihws.size() - 1)
+            if(hwn < 0 || hwn > _homeworks.size() - 1)
                 break;
 
             UI.printText("Here's result:");
             UI.printDelimiter('#');
 
 
-            _ihws.get(hwn).solve();
+            _homeworks.get(hwn).solve();
 
             UI.printDelimiter('#');
 
