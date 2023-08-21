@@ -27,6 +27,7 @@ public class HomeWork2 implements IHW, IManager {
         setup();
     }
     @Override
+    //
     public void setup() {
 
         _ihws.add(new HW2T1());
