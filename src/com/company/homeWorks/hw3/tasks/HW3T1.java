@@ -1,6 +1,6 @@
 package com.company.homeWorks.hw3.tasks;
 
-import com.company.homeWorks.hw3.models.Person;
+import com.company.homeWorks.models.Person;
 import com.company.homeWorks.interfaces.IHW;
 
 import java.util.Scanner;
