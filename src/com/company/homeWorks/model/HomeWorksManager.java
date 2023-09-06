@@ -10,6 +10,8 @@ import com.company.homeWorks.hw4.HomeWork4;
 import com.company.homeWorks.hw5.HomeWork5;
 import com.company.homeWorks.hw6.HomeWork6;
 import com.company.homeWorks.hw7.HomeWork7;
+import com.company.homeWorks.hw8.HomeWork8;
+import com.company.homeWorks.hw9.HomeWork9;
 import com.company.homeWorks.interfaces.IManager;
 import com.company.ui.UI;
 
@@ -32,6 +34,8 @@ public class HomeWorksManager implements IManager {
         _homeworks.add(new HomeWork5());
         _homeworks.add(new HomeWork6());
         _homeworks.add(new HomeWork7());
+        _homeworks.add(new HomeWork8());
+        _homeworks.add(new HomeWork9());
         displayMenu();
     }
     private void displayMenu()

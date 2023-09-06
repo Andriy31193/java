@@ -1,0 +1,67 @@
+Toyota Camry, Red, 180
+Honda Civic, Blue, 160
+Ford F-150, Black, 200
+Chevrolet Silverado, White, 190
+Volkswagen Jetta, Silver, 170
+Nissan Altima, Gray, 175
+Hyundai Sonata, Red, 165
+Jeep Wrangler, Green, 180
+Subaru Outback, Blue, 170
+Mazda CX-5, Gray, 175
+Audi A4, Black, 200
+BMW 3 Series, Blue, 210
+Mercedes-Benz E-Class, Silver, 220
+Lexus RX, Red, 200
+Tesla Model 3, Blue, 220
+Kia Sportage, White, 180
+GMC Sierra, Black, 190
+Chrysler Pacifica, Gray, 160
+Dodge Charger, Red, 220
+Jaguar F-PACE, Blue, 210
+Volvo XC90, Silver, 200
+Acura MDX, White, 195
+Land Rover Range Rover, Black, 210
+Cadillac Escalade, Red, 215
+Buick Enclave, Gray, 180
+Infiniti Q50, Blue, 205
+Porsche 911, Silver, 230
+Maserati Ghibli, Red, 240
+Ferrari 488, Red, 250
+Lamborghini Huracan, Yellow, 260
+McLaren 720S, Orange, 260
+Alfa Romeo Giulia, Red, 210
+Rolls-Royce Phantom, White, 220
+Bentley Continental GT, Blue, 230
+Bugatti Veyron, Black, 267
+Aston Martin DB11, Silver, 240
+Mitsubishi Outlander, Gray, 170
+Fiat 500, Red, 140
+Mini Cooper, Green, 160
+Smart Fortwo, Silver, 120
+Lancia Delta, Blue, 180
+Opel Corsa, White, 160
+Peugeot 208, Red, 170
+Renault Clio, Gray, 160
+Seat Leon, Blue, 175
+Skoda Octavia, Silver, 170
+Vauxhall Astra, Red, 165
+Volvo S60, Black, 190
+Nissan Micra, Blue, 150
+Suzuki Swift, Gray, 160
+Mazda 3, Red, 180
+Honda Fit, Silver, 155
+Kia Rio, Blue, 165
+Ford Fiesta, White, 160
+Hyundai Accent, Red, 165
+Toyota Yaris, Gray, 155
+Chevrolet Spark, Blue, 140
+Volkswagen Golf, Silver, 180
+Subaru Impreza, Red, 175
+Mitsubishi Mirage, Blue, 140
+Audi RS4, Black, 220
+BMW M3, Silver, 230
+Mercedes-Benz C-Class, Red, 210
+Lexus ES, Blue, 195
+Tesla Model S, Silver, 250
+Kia Stinger, Red, 230
+GMC Acadia, Blue, 190
