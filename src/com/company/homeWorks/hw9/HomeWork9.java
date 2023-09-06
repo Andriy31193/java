@@ -12,6 +12,8 @@ public class HomeWork9 extends MultipleHomework implements IHW {
     public void setup()
     {
         _homeworks.add(new HW9T1());
+        _homeworks.add(new HW9T2());
+        _homeworks.add(new HW9T3());
 
         super.display();
     }
