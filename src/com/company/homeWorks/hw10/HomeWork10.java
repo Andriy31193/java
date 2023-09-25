@@ -35,7 +35,7 @@ public class HomeWork10 implements IHW {
             System.out.println(entry.getKey() + ": " + entry.getValue());
         }
 
-        // Print drivers with the highest earnings
+        // Print  drivers with the highest earnings
         List<Driver> topDrivers = dispatcher.getDriversWithHighestEarnings();
         System.out.println("Drivers with Highest Earnings:");
         for (Driver driver : topDrivers) {
