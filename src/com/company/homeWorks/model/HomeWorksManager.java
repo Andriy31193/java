@@ -1,6 +1,7 @@
 package com.company.homeWorks.model;
 import java.util.ArrayList;
 
+import com.company.homeWorks.hw10.HomeWork10;
 import com.company.homeWorks.interfaces.IHW;
 
 import com.company.homeWorks.hw1.HomeWork1;
@@ -36,6 +37,7 @@ public class HomeWorksManager implements IManager {
         _homeworks.add(new HomeWork7());
         _homeworks.add(new HomeWork8());
         _homeworks.add(new HomeWork9());
+        _homeworks.add(new HomeWork10());
         displayMenu();
     }
     private void displayMenu()
